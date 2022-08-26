@@ -1,0 +1,41 @@
+_repo: Trichocosmos-Notes-historical-aesthetical-ethnological-physiological-anecdotal-and-tonsorial-__68781
+_version: 0.0.1
+alternative_title: 'Trichocosmos: Notes historical, aesthetical, ethnological, physiological,
+  anecdotal and tonsorial, on the hair and beard'
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2022-08-18'
+identifiers:
+  gutenberg: '68781'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t6qz2405f
+pgterms:marc905: 20201110134308pseud
+pgterms:marc906: '1890'
+pgterms:marc907: GB
+production_note: deaurider, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: United Kingdom :Read & co,1890.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hairdressing'
+- !lcsh 'Barbering'
+- !lcsh 'Beards'
+- !lcsh 'Hair'
+- !lcsh 'Wigs'
+- !lcc 'GT'
+- !lcc 'TT'
+- GITenberg
+title: 'Trichocosmos: Notes historical, æsthetical, ethnological, physiological, anecdotal
+  and tonsorial, on the hair & beard'
+url: http://www.gutenberg.org/ebooks/68781
